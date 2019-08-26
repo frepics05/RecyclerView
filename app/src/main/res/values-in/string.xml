@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="iniJudul">Game teramai penggunanya dari sabang sampai meroke</string>
+    <string name="iniSubJudul">FreeFire</string>
+    <string name="changeLanguage">Ganti Bahasa</string>
+    <string name="cari1">Search</string>
+</resources>

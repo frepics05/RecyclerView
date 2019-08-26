@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="iniJudul">The game is the busiest of users from Sabang to Merauke</string>
+    <string name="iniSubJudul">FreeFire</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="cari1">Search</string>
+</resources>
