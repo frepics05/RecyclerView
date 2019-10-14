@@ -19,9 +19,9 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView rvMain;
     Toolbar toolbar;
     ArrayList<ModelMovie> arrayList;
-    private String[] id = {"1001", "1002", "1003"};
-    private String[] judul = {"Seribu Satu Orang Hebat","Temukan Jati Diri Di Sini","Siapa Saya Ini"};
-    private String[] subjudul = {"Orang Hebat", "Pedjuang Gamer", "Petani Kode"};
+    private String[] id = {"1001", "1002", "1003", "1004", "1005", "1006", "1007", "1008"};
+    private String[] judul = {"Seribu Satu Orang Hebat","Temukan Jati Diri Di Sini","Siapa Saya Ini", "Cara menjadi orang hebat", "Cita Cita Saya"};
+    private String[] subjudul = {"Orang Hebat", "Pedjuang Gamer", "Petani Kode", "3 Cara simpel", "Menjadi Programmer"};
     private int[] gambar = {R.drawable.channel_tv, R.drawable.desain_tanpa_judul, R.drawable.kupu_kupu};
 
 
